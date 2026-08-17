@@ -1,1 +1,1 @@
-{"allocations": {"UPRO": 25.0, "SOXL": 25.0, "TECL": 25.0, "QID": 25.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"UPRO": 25.0, "SOXL": 25.0, "TECL": 25.0, "QID": 25.0}, "frequency": 30, "name": "Leveraged Bull/Bear Sector Rotation", "period": "days"}
