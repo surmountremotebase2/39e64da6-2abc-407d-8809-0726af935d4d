@@ -1,1 +1,1 @@
-{"allocations": {"UDOW": 25.0, "DDM": 25.0, "DIA": 25.0, "DXD": 25.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"UDOW": 25.0, "DDM": 25.0, "DIA": 25.0, "DXD": 25.0}, "frequency": 1, "name": "Equal Weighted Diversification", "period": "days"}
